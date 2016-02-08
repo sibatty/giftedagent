@@ -1,6 +1,9 @@
 GIFTED AGENT DESIGN DOC
 =======
 
+## Keywords
+オープンソース, 社会システム, 発達障害, 開発
+
 GIFTED AGENTは「偏りを活かせる社会を創る」ために作られた組織である。
 
 ## 目的
