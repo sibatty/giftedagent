@@ -1,4 +1,18 @@
 My Awesome Book
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+GIFTED AGENTは「偏りを活かせる社会を創る」ために作られた組織である。
+
+## 目的
+
+@TODO
+
+## 背景
+
+@TODO
+
+## 構造
+
+@TODO 
+
+## 参考資料
