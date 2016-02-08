@@ -1,4 +1,4 @@
-My Awesome Book
+GIFTED AGENT DESIGN DOC
 =======
 
 GIFTED AGENTは「偏りを活かせる社会を創る」ために作られた組織である。
